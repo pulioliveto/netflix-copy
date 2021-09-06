@@ -1,4 +1,0 @@
-#Ignora todas las imagenes 
-
-*.jpg
-*.png
