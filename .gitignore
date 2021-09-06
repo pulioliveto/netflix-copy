@@ -1,0 +1,4 @@
+#Ignora todas las imagenes 
+*/img
+*.jpg
+*.png
